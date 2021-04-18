@@ -23,12 +23,13 @@ body{
 .header {
     display: flex;
     justify-content: flex-end;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     position: relative;
     height: 360px;
     padding: 20px 40px;
     font-family: "Montserrat SemiBold";
+    color: white;
     background-image: url('https://cdn.pixabay.com/photo/2018/06/03/14/32/whisky-3450670_1280.jpg');
     background-size: cover;
     background-position: center;
@@ -58,6 +59,7 @@ body{
     margin-bottom:40px;
     width:100%;
     font-size: 15px;
+    font-family: "Open Sans";
     border-radius: 5px;
     background-color: #bababa
 }
