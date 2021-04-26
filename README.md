@@ -2,8 +2,8 @@
 > Repository with couple of projects done within my javascript udemy course.
 
 ## Menu
-* [Todo List](#todo list)
-* [Finance Manager](#finance manager)
+* [Todo List](#todolist)
+* [Finance Manager](#financemanager)
 * [Searchbar](#searchbar)
 * [Billsplitter](#billsplitter)
 
