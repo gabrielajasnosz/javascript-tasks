@@ -1,5 +1,4 @@
 # javascript-tasks
-> Repository with couple of projects done within my javascript udemy course.
 
 ## Menu
 * [Todo List](#todolist)
